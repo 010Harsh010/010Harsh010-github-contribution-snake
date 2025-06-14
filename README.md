@@ -78,7 +78,7 @@
 
 ## 📈 Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSingh01&show_icons=true&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=010Harsh010&show_icons=true&theme=radical)
 
 ---
 
