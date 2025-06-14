@@ -1,5 +1,5 @@
 <p align="left" >
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHbaDRfSWjG-Q/profile-displayphoto-shrink_200_200/B4EZYl2d15GYAY-/0/1744391757724?e=1755129600&v=beta&t=hnEDnY2tjhT1yEUPOmoSY1eMt1Ab2AHpI0koJRkghCw" width="120" style="border-radius: 15px; float: left; margin-right: 15px;" /> <h2> Hi there, I'm Harsh Singh!</h2>
+<h2> 👋 Hi there, I'm Harsh Singh!</h2>
 </p>
 
 🎓 B.Tech | Artificial Intelligence & Data Science  
