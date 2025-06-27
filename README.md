@@ -16,6 +16,13 @@
 
 ---
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake.svg" />
+  </picture>
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -76,15 +83,22 @@
 
 ---
 
-## 📈 Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=010Harsh010&show_icons=true&theme=radical)
+<p align="center">
+  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=010Harsh010&show_icons=true&bg_color=0d1117&title_color=cccccc&text_color=999999&icon_color=999999&border_color=444" />
+  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010Harsh010&layout=compact&bg_color=0d1117&title_color=cccccc&text_color=999999&border_color=444" />
+</p>
+
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=010Harsh010&theme=github-compact&bg_color=0d1117&color=cccccc&line=999999&point=888888&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-📧 harsh.h23@iiits.in | hs25072004@gmail.com  
+📧 harsh.h23@iiits.in | harshsingh794613@gmail.com@gmail.com  
 🔗 [LeetCode](https://leetcode.com/u/harsh_singh_01/) | [Codeforces](https://codeforces.com/profile/Demolition007) | [GitHub](https://github.com/HarshSingh01) | [LinkedIn](https://linkedin.com/in/harsh-singh-0804)
 
 ---
